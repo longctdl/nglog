@@ -1,7 +1,7 @@
 <h1>👋 Hi there, I'm Long!</h1>
 
 ## 💫 About Me:
-🎓 I'm a student at the **Posts and Telecommunications Institute of Technology (PTIT)**  
+🎓 I'm a student at the **Posts and Telecommunications Institute of Technology-PTIT**  
 💻 **Major**: Information Technology  
 🚀 Passionate about **web development**, **data structures & algorithms**, and **system design**  
 📚 Currently improving my skills through **real-world projects** and **open-source contributions**  
